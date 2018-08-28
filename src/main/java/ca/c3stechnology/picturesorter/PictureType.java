@@ -1,5 +1,5 @@
 package ca.c3stechnology.picturesorter;
-
+//just a comment to have the build triggered
 public enum PictureType {
 	TIFF("tiff"),
 	JPG("jpg"),
