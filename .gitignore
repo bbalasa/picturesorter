@@ -1,0 +1,34 @@
+#ignore eclipse files
+.classpath
+.project
+.settings/
+build/
+
+#ignore IntelliJ files
+.idea/
+*.iml
+*.iws
+*.eml
+
+#ignore Mac DS_Store
+.DS_Store
+
+#ignore logs
+log/
+
+#ignore out dir
+out/
+
+#ignore maven target
+target/
+*.userlibraries
+
+
+#Ignore .class files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
